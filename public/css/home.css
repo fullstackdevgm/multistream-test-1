@@ -1,0 +1,9 @@
+.live-title, .gallery-title {
+    font-size: 28px;
+    line-height: 30px;
+    margin-left: 20px;
+}
+.jwvideo-player {
+    width: 100%;
+    height: auto;
+}
